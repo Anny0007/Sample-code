@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       ankurvishwakarma54@yahoo.com
+ * @link     
  * @since      1.0.0
  *
  * @package    Avcl_Wp_Buy_Tickets
@@ -18,7 +18,7 @@
  *
  * @package    Avcl_Wp_Buy_Tickets
  * @subpackage Avcl_Wp_Buy_Tickets/admin
- * @author     Ankur Vishwakarma <ankurvishwakarma54@yahoo.com>
+ * @author     Ankit Vishwakarma 
  */
 class Avcl_Wp_Buy_Tickets_Admin {
 
