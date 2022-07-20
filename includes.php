@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       ankurvishwakarma54@yahoo.com
+ * @link      
  * @since      1.0.0
  *
  * @package    Avcl_Wp_Buy_Tickets
@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Avcl_Wp_Buy_Tickets
  * @subpackage Avcl_Wp_Buy_Tickets/includes
- * @author     Ankur Vishwakarma <ankurvishwakarma54@yahoo.com>
+ * @author     Ankit Vishwakarma 
  */
 class Avcl_Wp_Buy_Tickets {
 
